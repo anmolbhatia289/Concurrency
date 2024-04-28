@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeCache", "ThreadSafeCache.csproj", "{BE47AC8C-F44E-4A99-A855-3DCF0DD442D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeCacheUnitTest", "..\ThreadSafeCacheUnitTest\ThreadSafeCacheUnitTest.csproj", "{6DA7F412-3653-484C-A037-7B99FD1F8FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE47AC8C-F44E-4A99-A855-3DCF0DD442D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE47AC8C-F44E-4A99-A855-3DCF0DD442D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE47AC8C-F44E-4A99-A855-3DCF0DD442D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE47AC8C-F44E-4A99-A855-3DCF0DD442D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA7F412-3653-484C-A037-7B99FD1F8FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA7F412-3653-484C-A037-7B99FD1F8FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA7F412-3653-484C-A037-7B99FD1F8FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA7F412-3653-484C-A037-7B99FD1F8FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D62973-21E6-48ED-B29E-1E3A0976D2D7}
+	EndGlobalSection
+EndGlobal

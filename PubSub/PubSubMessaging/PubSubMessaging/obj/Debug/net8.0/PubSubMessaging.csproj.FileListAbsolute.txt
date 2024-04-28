@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\bin\Debug\net8.0\PubSubMessaging.exe
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\bin\Debug\net8.0\PubSubMessaging.deps.json
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\bin\Debug\net8.0\PubSubMessaging.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\bin\Debug\net8.0\PubSubMessaging.dll
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\bin\Debug\net8.0\PubSubMessaging.pdb
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.dll
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\refint\PubSubMessaging.dll
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.pdb
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\PubSubMessaging.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\PubSub\PubSubMessaging\PubSubMessaging\obj\Debug\net8.0\ref\PubSubMessaging.dll

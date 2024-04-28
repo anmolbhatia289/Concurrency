@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\UberSeatingProblem\bin\Debug\net6.0\UberSeatingProblem.exe
+C:\github\LowLevelDesigns\UberSeatingProblem\bin\Debug\net6.0\UberSeatingProblem.deps.json
+C:\github\LowLevelDesigns\UberSeatingProblem\bin\Debug\net6.0\UberSeatingProblem.runtimeconfig.json
+C:\github\LowLevelDesigns\UberSeatingProblem\bin\Debug\net6.0\UberSeatingProblem.dll
+C:\github\LowLevelDesigns\UberSeatingProblem\bin\Debug\net6.0\UberSeatingProblem.pdb
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.AssemblyInfo.cs
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.sourcelink.json
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.dll
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\refint\UberSeatingProblem.dll
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.pdb
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\UberSeatingProblem.genruntimeconfig.cache
+C:\github\LowLevelDesigns\UberSeatingProblem\obj\Debug\net6.0\ref\UberSeatingProblem.dll

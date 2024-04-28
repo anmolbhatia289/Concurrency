@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\bin\Debug\net8.0\TaskScheduler.exe
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\bin\Debug\net8.0\TaskScheduler.deps.json
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\bin\Debug\net8.0\TaskScheduler.runtimeconfig.json
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\bin\Debug\net8.0\TaskScheduler.dll
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\bin\Debug\net8.0\TaskScheduler.pdb
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\TaskScheduler.dll
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\refint\TaskScheduler.dll
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\TaskScheduler.pdb
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\TaskScheduler.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\TaskScheduler\TaskScheduler\obj\Debug\net8.0\ref\TaskScheduler.dll

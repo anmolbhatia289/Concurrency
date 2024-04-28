@@ -1,0 +1,14 @@
+C:\github\Concurrency\MultiThreadedMergeSort\bin\Debug\net6.0\MultiThreadedMergeSort.exe
+C:\github\Concurrency\MultiThreadedMergeSort\bin\Debug\net6.0\MultiThreadedMergeSort.deps.json
+C:\github\Concurrency\MultiThreadedMergeSort\bin\Debug\net6.0\MultiThreadedMergeSort.runtimeconfig.json
+C:\github\Concurrency\MultiThreadedMergeSort\bin\Debug\net6.0\MultiThreadedMergeSort.dll
+C:\github\Concurrency\MultiThreadedMergeSort\bin\Debug\net6.0\MultiThreadedMergeSort.pdb
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\MultiThreadedMergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\MultiThreadedMergeSort.AssemblyInfoInputs.cache
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\MultiThreadedMergeSort.AssemblyInfo.cs
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\MultiThreadedMergeSort.csproj.CoreCompileInputs.cache
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\MultiThreadedMergeSort.dll
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\refint\MultiThreadedMergeSort.dll
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\MultiThreadedMergeSort.pdb
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\MultiThreadedMergeSort.genruntimeconfig.cache
+C:\github\Concurrency\MultiThreadedMergeSort\obj\Debug\net6.0\ref\MultiThreadedMergeSort.dll

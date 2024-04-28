@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\LowLevelDesigns\\TaskScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\priorityqueuetaskstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\priorityqueuetaskstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\scheduledtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\scheduledtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\recurringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\recurringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\onetimetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\onetimetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\taskdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\taskdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\executioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\executioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\executioncontextimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\executioncontextimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\taskrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\taskrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|c:\\github\\lowleveldesigns\\taskscheduler\\taskscheduler\\taskstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E5373-835B-4C46-88A7-F90C055EF777}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\taskstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExecutionContextImplementation.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\ExecutionContextImplementation.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\ExecutionContextImplementation.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\ExecutionContextImplementation.cs",
+              "RelativeToolTip": "TaskScheduler\\ExecutionContextImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskDriver.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\TaskDriver.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\TaskDriver.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\TaskDriver.cs",
+              "RelativeToolTip": "TaskScheduler\\TaskDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskRunner.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\TaskRunner.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\TaskRunner.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\TaskRunner.cs",
+              "RelativeToolTip": "TaskScheduler\\TaskRunner.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwDAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PriorityQueueTaskStore.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\PriorityQueueTaskStore.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\PriorityQueueTaskStore.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\PriorityQueueTaskStore.cs",
+              "RelativeToolTip": "TaskScheduler\\PriorityQueueTaskStore.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskStore.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\TaskStore.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\TaskStore.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\TaskStore.cs",
+              "RelativeToolTip": "TaskScheduler\\TaskStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecurringTask.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\RecurringTask.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\RecurringTask.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\RecurringTask.cs",
+              "RelativeToolTip": "TaskScheduler\\RecurringTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OneTimeTask.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\OneTimeTask.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\OneTimeTask.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\OneTimeTask.cs",
+              "RelativeToolTip": "TaskScheduler\\OneTimeTask.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduledTask.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\ScheduledTask.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\ScheduledTask.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\ScheduledTask.cs",
+              "RelativeToolTip": "TaskScheduler\\ScheduledTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\ExecutionContext.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\ExecutionContext.cs",
+              "RelativeToolTip": "TaskScheduler\\ExecutionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Program.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\TaskScheduler\\TaskScheduler\\Program.cs",
+              "RelativeToolTip": "TaskScheduler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:12:29.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

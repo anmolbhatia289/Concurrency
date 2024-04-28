@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\PrintEvenOdd\bin\Debug\net6.0\PrintEvenOdd.exe
+C:\github\LowLevelDesigns\PrintEvenOdd\bin\Debug\net6.0\PrintEvenOdd.deps.json
+C:\github\LowLevelDesigns\PrintEvenOdd\bin\Debug\net6.0\PrintEvenOdd.runtimeconfig.json
+C:\github\LowLevelDesigns\PrintEvenOdd\bin\Debug\net6.0\PrintEvenOdd.dll
+C:\github\LowLevelDesigns\PrintEvenOdd\bin\Debug\net6.0\PrintEvenOdd.pdb
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.AssemblyInfo.cs
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.sourcelink.json
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.dll
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\refint\PrintEvenOdd.dll
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.pdb
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\PrintEvenOdd.genruntimeconfig.cache
+C:\github\LowLevelDesigns\PrintEvenOdd\obj\Debug\net6.0\ref\PrintEvenOdd.dll

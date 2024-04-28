@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\bin\Debug\net6.0\RateLimiter.exe
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\bin\Debug\net6.0\RateLimiter.deps.json
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\bin\Debug\net6.0\RateLimiter.runtimeconfig.json
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\bin\Debug\net6.0\RateLimiter.dll
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\bin\Debug\net6.0\RateLimiter.pdb
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.AssemblyInfo.cs
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.sourcelink.json
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.dll
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\refint\RateLimiter.dll
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.pdb
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\RateLimiter.genruntimeconfig.cache
+C:\github\LowLevelDesigns\RateLimiter\RateLimiter\obj\Debug\net6.0\ref\RateLimiter.dll

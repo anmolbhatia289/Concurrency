@@ -1,0 +1,14 @@
+C:\github\Concurrency\DiningPhilosophers\bin\Debug\net6.0\DiningPhilosophers.exe
+C:\github\Concurrency\DiningPhilosophers\bin\Debug\net6.0\DiningPhilosophers.deps.json
+C:\github\Concurrency\DiningPhilosophers\bin\Debug\net6.0\DiningPhilosophers.runtimeconfig.json
+C:\github\Concurrency\DiningPhilosophers\bin\Debug\net6.0\DiningPhilosophers.dll
+C:\github\Concurrency\DiningPhilosophers\bin\Debug\net6.0\DiningPhilosophers.pdb
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\DiningPhilosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\DiningPhilosophers.AssemblyInfoInputs.cache
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\DiningPhilosophers.AssemblyInfo.cs
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\DiningPhilosophers.csproj.CoreCompileInputs.cache
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\DiningPhilosophers.dll
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\refint\DiningPhilosophers.dll
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\DiningPhilosophers.pdb
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\DiningPhilosophers.genruntimeconfig.cache
+C:\github\Concurrency\DiningPhilosophers\obj\Debug\net6.0\ref\DiningPhilosophers.dll

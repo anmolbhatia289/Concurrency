@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.AssemblyInfo.cs
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.sourcelink.json
+C:\github\LowLevelDesigns\ThreadSafeCache\bin\Debug\net6.0\ThreadSafeCache.exe
+C:\github\LowLevelDesigns\ThreadSafeCache\bin\Debug\net6.0\ThreadSafeCache.deps.json
+C:\github\LowLevelDesigns\ThreadSafeCache\bin\Debug\net6.0\ThreadSafeCache.runtimeconfig.json
+C:\github\LowLevelDesigns\ThreadSafeCache\bin\Debug\net6.0\ThreadSafeCache.dll
+C:\github\LowLevelDesigns\ThreadSafeCache\bin\Debug\net6.0\ThreadSafeCache.pdb
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.dll
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\refint\ThreadSafeCache.dll
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.pdb
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ThreadSafeCache.genruntimeconfig.cache
+C:\github\LowLevelDesigns\ThreadSafeCache\obj\Debug\net6.0\ref\ThreadSafeCache.dll

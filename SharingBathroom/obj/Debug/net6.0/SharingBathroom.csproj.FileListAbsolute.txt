@@ -1,0 +1,14 @@
+C:\github\Concurrency\SharingBathroom\bin\Debug\net6.0\SharingBathroom.exe
+C:\github\Concurrency\SharingBathroom\bin\Debug\net6.0\SharingBathroom.deps.json
+C:\github\Concurrency\SharingBathroom\bin\Debug\net6.0\SharingBathroom.runtimeconfig.json
+C:\github\Concurrency\SharingBathroom\bin\Debug\net6.0\SharingBathroom.dll
+C:\github\Concurrency\SharingBathroom\bin\Debug\net6.0\SharingBathroom.pdb
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\SharingBathroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\SharingBathroom.AssemblyInfoInputs.cache
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\SharingBathroom.AssemblyInfo.cs
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\SharingBathroom.csproj.CoreCompileInputs.cache
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\SharingBathroom.dll
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\refint\SharingBathroom.dll
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\SharingBathroom.pdb
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\SharingBathroom.genruntimeconfig.cache
+C:\github\Concurrency\SharingBathroom\obj\Debug\net6.0\ref\SharingBathroom.dll
